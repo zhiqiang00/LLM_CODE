@@ -1,4 +1,6 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import os
 import numpy as np
 from dotenv import load_dotenv, find_dotenv
